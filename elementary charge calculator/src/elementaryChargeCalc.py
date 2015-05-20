@@ -49,6 +49,4 @@ def main():
 	avgDevArray = bubbleSort(avgDevArray)
 	printAvgDevs(avgDevArray)
 		
-
-
 main()
