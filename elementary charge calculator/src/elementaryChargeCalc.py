@@ -1,7 +1,5 @@
 import math
 
-
-
 def printAvgDevs(avgDevArray):
 	for index in range(len(avgDevArray)):
 		print "Charge Const: 	", avgDevArray[index][1], "Average deviation: 	", avgDevArray[index][0], "%"
